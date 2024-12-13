@@ -35,6 +35,10 @@ catch(Exception $e)
 <div class="page-content">
     <?php echo $html;?>
     <div id="intro_main">
+        <p>
+            <span style="color: red; font-size: 20px; font-weight: bold;">初始化 =></span>
+            <a href="/pkxss/pkxss_install.php" style=" text-decoration: underline;">/pkxss/pkxss_install.php</a>
+        </p>
         <p class="p1">
             Pikachu是一个带有漏洞的Web应用系统，在这里包含了常见的web安全漏洞。
             如果你是一个Web渗透测试学习人员且正发愁没有合适的靶场进行练习，那么Pikachu可能正合你意。
